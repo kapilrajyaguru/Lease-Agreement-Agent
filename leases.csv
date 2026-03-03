@@ -1,0 +1,11 @@
+pdf_file,Lease_ID,Tenant_Name,Landlord_Name,Property_Address,Lease_Start_Date,Lease_End_Date,Monthly_Rent,Security_Deposit,Payment_Due_Day,Renewal_Option
+lease_01.pdf,LEASE-2025-0001,Sarah Smith,ABC Property Management LLC,"4606 Oak Street, Unit 16, San Francisco, CA 94102",2024-04-01,2025-04-01,"$3,800.00","$3,800.00",15,Yes
+lease_02.pdf,LEASE-2025-0002,David Smith,Premier Realty Group,"8113 Maple Avenue, Unit 1, Los Angeles, CA 90001",2025-09-01,2026-09-01,"$4,100.00","$4,100.00",5,No
+lease_03.pdf,LEASE-2025-0003,Amanda Smith,Sunrise Properties Inc.,"9570 Pine Road, Unit 39, Seattle, WA 98101",2024-08-01,2025-08-01,"$3,500.00","$3,500.00",5,No
+lease_04.pdf,LEASE-2025-0004,Sarah Rodriguez,Golden Gate Holdings,"6152 Cedar Lane, Unit 25, Portland, OR 97201",2024-03-01,2025-03-01,"$3,200.00","$3,200.00",1,No
+lease_05.pdf,LEASE-2025-0005,Robert Smith,Metropolitan Real Estate,"6741 Elm Drive, Unit 11, Denver, CO 80202",2024-12-01,2025-12-01,"$3,500.00","$5,250.00",1,Yes
+lease_06.pdf,LEASE-2025-0006,Amanda Smith,Coastal Property Services,"4883 Birch Boulevard, Unit 35, Austin, TX 78701",2024-03-01,2025-03-01,"$2,500.00","$3,750.00",5,No
+lease_07.pdf,LEASE-2025-0007,Michael Smith,Urban Living Partners,"8035 Walnut Way, Unit 13, Chicago, IL 60601",2024-12-01,2025-12-01,"$2,800.00","$5,600.00",15,No
+lease_08.pdf,LEASE-2025-0008,John Rodriguez,Harmony Homes LLC,"3292 Cherry Court, Unit 10, Boston, MA 02101",2025-09-01,2026-09-01,"$4,100.00","$8,200.00",1,No
+lease_09.pdf,LEASE-2025-0009,John Jones,Evergreen Estates,"6750 Willow Place, Unit 45, New York, NY 10001",2024-08-01,2025-08-01,"$4,400.00","$8,800.00",5,No
+lease_10.pdf,LEASE-2025-0010,John Garcia,Summit Rentals Inc.,"4566 Spruce Circle, Unit 26, Phoenix, AZ 85001",2024-02-01,2025-01-31,"$1,500.00","$3,000.00",5,No
